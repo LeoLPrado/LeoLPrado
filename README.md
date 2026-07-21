@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Leonardo Prado 👋</h1>
 
 <p align="center">
-  Estudante de Engenharia de Software focado em <b>Data Engineering</b>
+  Estudante de Engenharia de Software focado em <b>Engenharia de Dados</b>
 </p>
 
 <p align="center">
