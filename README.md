@@ -64,8 +64,6 @@ Voluntário no **Cas@Viva**, onde ensino HTML, CSS e JavaScript para alunos do e
 
 ---
 
-<div align="center">
-  <br><p align="center"><b>Quantidade dde visitantes</b></p>
-  <p align=""center><img align="center" src = "https://profile-counter.glitch.me/LeoLPrado/count.svg"/></p>
-  <br>
-</div>
+<img data-importer="snake" src="https://raw.githubusercontent.com/LeoLPrado/LeoLPrado/snake-output/snake.svg" alt="Snake animation" />
+
+###
