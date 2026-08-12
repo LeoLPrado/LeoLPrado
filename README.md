@@ -63,3 +63,9 @@ Voluntário no **Cas@Viva**, onde ensino HTML, CSS e JavaScript para alunos do e
 - [Certificado Excelência — 3º semestre](certificacoes/certificado_excelencia_3_semestre.pdf) — INATEL
 
 ---
+
+<div align="center">
+  <br><p align="center"><b>Quantidade dde visitantes</b></p>
+  <p align=""center><img align="center" src = "https://profile-counter.glitch.me/LeoLPrado/count.svg"/></p>
+  <br>
+</div>
